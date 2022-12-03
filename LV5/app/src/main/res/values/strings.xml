@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ORWMA_LV5</string>
+    
+    <string name="enter_name">Ime i prezime</string>
+    <string name="enter_description">Opis</string>
+    <string name="enter_text">UNESI</string>
+
+    <string name="enter_height">Visina</string>
+    <string name="enter_weight">Težina u kg</string>
+    <string name="calculate">IZRAČUNAJ</string>
+
+
+    <!--<string name="increase_text">Povećaj</string>
+    <string name="decrease_text">Smanji</string>-->
+
+</resources>
