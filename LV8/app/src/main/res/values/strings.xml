@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ORWMA_LV8</string>
+    <string name="imgURL">Image URL</string>
+    <string name="personName">Person Name</string>
+    <string name="personDescription">Person Description</string>
+    <string name="save">SAVE</string>
+</resources>
